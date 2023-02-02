@@ -1,0 +1,15 @@
+.female{
+    width: 70%;
+    margin: auto;
+    margin-top: 80px;
+}
+.f-card{
+    width: 200px;
+    height: 300px;
+    object-fit: contain;
+}
+.f-card img{
+    width: 95%;
+    height: 100%;
+    border-radius: 20px;
+}

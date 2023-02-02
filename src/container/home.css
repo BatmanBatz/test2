@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(119, 111, 111);
+}
+.Uliral{
+    width: 70%;
+    margin: auto;
+}
+.ontsloh{
+    margin-top: 50px;
+    width: 150px;
+    height: 250px;
+}
+.ontsloh img{
+    border-radius: 20px;
+    width: 95%;
+    height: 100%;
+    object-fit: cover;
+}

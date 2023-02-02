@@ -1,0 +1,15 @@
+.male{
+    width: 70%;
+    margin: auto;
+    margin-top: 80px;
+}
+.male-it{
+    width: 200px;
+    height: 300px;
+    object-fit: contain;
+}
+.male-it img{
+    width: 95%;
+    height: 100%;
+    border-radius: 20px;
+}
